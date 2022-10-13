@@ -1,8 +1,3 @@
-'''
-Take Screenshot using python with just 3 lines of code.
-Author: Ayushi Rawat
-'''
-
 #Without GUI
 import pyautogui
 
